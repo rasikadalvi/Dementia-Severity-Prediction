@@ -1,1 +1,1 @@
-# Dementia-Severity-Prediction
+# Dementia Severity Prediction | Machine Learning Project
